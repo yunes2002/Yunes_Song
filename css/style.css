@@ -191,7 +191,7 @@ body {
     align-items: center;
 }
 
-.popsong_name div, p {
+.popsong_name div, .popsong_name p {
     margin: 0 1rem;
 }
 
